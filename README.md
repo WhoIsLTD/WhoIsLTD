@@ -4,7 +4,7 @@ A final year student at Hanoi University of Mining and Geology. I'm majoring in 
 - 🔭 I'm currently diving into deep learning
 - 🤟 I want making cool things!!!
 - 🎲 I love playing trivia games, chess, sudoku, mines(i'm the best in this game, LOL),...
-- 📑 I like to read some book categories like science & discovery books, history books, detective & science fiction novels
+- 📑 I like to read several book genres such as science & discovery books, history books, and detective & science fiction novels
 - 📫 How to reach me: Email me at: tiendat.le129@gmail.com 
 <!-- - 🌱 My skills: Python(Flask, Numpy, Pandas, Sklearn, Tensorflow)/ C#/ Git/ Linux/ Postgresql/ GIS -->
 
