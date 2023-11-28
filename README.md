@@ -1,7 +1,9 @@
 ### Hi there 👋
 I'm Dat Le.
 An R&D engineer who loves to work on new technologies, a simple human being who loves to learn and share knowledge.
+
 I graduated with a major in Geoinformation Technology at Hanoi University of Mining and Geology, and am also interested in Computer Science. 
+
 I'm a big fan of open source and always looking for ways to contribute to the community.
 - 🔭 I'm currently diving into deep learning
 - 🤟 I want making cool things!!!
